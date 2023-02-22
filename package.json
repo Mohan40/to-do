@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "CRUD APIs for To-do app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohan40/to-do.git"
+  },
+  "author": "Mohan Kumar S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mohan40/to-do/issues"
+  },
+  "homepage": "https://github.com/Mohan40/to-do#readme"
+}
